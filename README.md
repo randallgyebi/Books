@@ -1,2 +1,2 @@
-# Python-Data-Science-Handbook
-This folder details my personal work while reading Python Data Science Handbook
+#Books
+This folder details my personal work and notes while reading various textbooks for personal development
